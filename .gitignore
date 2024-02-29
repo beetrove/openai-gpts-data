@@ -1,3 +1,10 @@
+CSVs with columns/*.csv
+CSVs with raw json/*.csv
+
+# ------------------------------------------------------------
+# Content below is from Github's template for Python projects.
+# ------------------------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
