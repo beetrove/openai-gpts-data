@@ -1,8 +1,8 @@
 ## BeeTrove - OpenAI GPTs Data
 
-This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insights for research, development, business, and pure curiosity.
+This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insights for research, development, business, and pure curiosity. It contains detailed historical data about around 349K Custom GPTs. This dataset is completely free, it is Apache 2.0.
 
-This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your finding and please tell others where you found the data. This dataset is completely free, it is Apache 2.0.
+This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your findings and let people know where you found the data.
 
 ### 1) Download Large Files from Google Drive
 
@@ -12,15 +12,15 @@ Access the files [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AW
 
 Understanding how the data is generated is crucial for proper interpretation:
 
-##### 2.1) Discovering Public GPTs
+#### 2.1) Discovering Public GPTs
 
-- Crawled the web, similar to Google and Bing, over several days, finding a total of 349K Custom GPTs.
+- Started by crawling the web, similar to how Google and Bing do, over several days, finding a total of 349K Custom GPTs.
 
-##### 2.2) Monitoring GPTs Details
+#### 2.2) Monitoring GPTs Details
 
 - Began monitoring these 349K GPTs on **2024-01-20**. No new GPTs have been added to the monitoring since then.
 
-##### 2.3) Monitoring GPT Store Home Page
+#### 2.3) Monitoring GPT Store Home Page
 
 - Initiated on **2024-03-02**. The goal is to observe how visibility on the home page affects GPT metrics such as Conversations, Reviews, Ratings, etc.
 - Significant changes in the home list will also be documented with screenshots.
