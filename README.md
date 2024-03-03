@@ -1,3 +1,9 @@
+## BeeTrove - OpenAI GPTs Data
+
+This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insights for research, development, business, and pure curiosity.
+
+This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your finding and please tell others where you found the data. This dataset is completely free, it is Apache 2.0.
+
 ### 1) Download Large Files from Google Drive
 
 Access the files [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link).
