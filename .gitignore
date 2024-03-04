@@ -1,5 +1,4 @@
-CSVs with columns/*.csv
-CSVs with raw json/*.csv
+Custom GPTs*/CSVs*/*.csv
 
 # ------------------------------------------------------------
 # Content below is from Github's template for Python projects.
