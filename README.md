@@ -4,9 +4,12 @@ This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insight
 
 This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your findings and let people know where you found the data.
 
-### 1) Download Large Files from Google Drive
+### 1) Downloading the data
 
-Access the files [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link).
+- **Step 1:** Initially, review the 10% random data sample available in this Excel file with 3 sheets. It's important to note that Excel's inherent limitations on data capacity prevent the analysis of the entire dataset directly within the program. [GPTs_10_percent_random_sample.xlsx](./GPTs_10_percent_random_sample.xlsx)
+- **Step 2:** To work with the full dataset, please download the larger files from [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the Excel sample.
+- **Step 3:** You can dive even deeper in the data by analyzing the historical and raw data available in the folders ETL Stage 1 and 2 in [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link).
+
 
 ### 2) Important Observations for Analysis
 
@@ -31,7 +34,7 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
 
 - **Stage 1**: Extracted raw nested JSON data by crawling GPT pages.
 - **Stage 2**: Transformed nested JSON data into flat CSV files.
-- **Stage 3**: Normalized data by processing the full history to compile simpler tables that contain the latest details and a timeline of performance metrics (Conversations, Stars, Reviews).
+- **Stage 3**: Normalized data by processing the full history to compile simpler tables that contain the latest details and a timeline of performance metrics (Conversations, Stars, Reviews). These are the "Final tables" (ETL Stage 3) and the sample data in Excel.
   
 ### License
 
