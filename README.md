@@ -37,6 +37,6 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
 
 **Apache License 2.0:** This permissive open-source license allows for free use, modification, distribution, and commercial exploitation of the software, provided that proper attribution and the license text are included in redistributed works.
 
-### Source
+### Data source
 
 Data was crawled in compliance with OpenAI's guidelines, as specified in [OpenAI's robots.txt](https://chat.openai.com/robots.txt).
