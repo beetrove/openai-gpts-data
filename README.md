@@ -25,6 +25,14 @@ Understanding how the data is generated is crucial for proper interpretation:
 - Initiated on **2024-03-02**. The goal is to observe how visibility on the home page affects GPT metrics such as Conversations, Reviews, Ratings, etc.
 - Significant changes in the home list will also be documented with screenshots.
 
+### 3) How data was processed
+
+ETL (Extract, Transform, and Load) is a process used to gather and prepare data for analysis.
+
+- **Stage 1**: Extracted raw nested JSON data by crawling GPT pages.
+- **Stage 2**: Transformed nested JSON data into flat CSV files.
+- **Stage 3**: Normalized data by processing the full history to compile simpler tables that contain the latest details and a timeline of performance metrics (Conversations, Stars, Reviews).
+  
 ### License
 
 **Apache License 2.0:** This permissive open-source license allows for free use, modification, distribution, and commercial exploitation of the software, provided that proper attribution and the license text are included in redistributed works.
