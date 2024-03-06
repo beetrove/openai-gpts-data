@@ -6,8 +6,8 @@ This project aims to spark community collaboration, encouraging everyone to expl
 
 Here is a [public dashboard](https://public.tableau.com/views/BeeTrove-OpenAIGPTsOpen-SourceDataset/BeeTrove-OpenAIGPTsOpen-SourceDataset?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) with just a few examples of visualizations possible with this data:
 
+[![Local Image](tableau-public-dashboard-example.png)](https://public.tableau.com/views/BeeTrove-OpenAIGPTsOpen-SourceDataset/BeeTrove-OpenAIGPTsOpen-SourceDataset?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}
 
-![Local Image](tableau-public-dashboard-example.png)
 
 ### 1) Downloading the data
 
