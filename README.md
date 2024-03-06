@@ -6,8 +6,8 @@ This project aims to spark community collaboration, encouraging everyone to expl
 
 ### 1) Downloading the data
 
-- **Step 1:** Initially, review the 10% random data sample available in this Excel file with 3 sheets. It's important to note that Excel's inherent limitations on data capacity prevent the analysis of the entire dataset directly within the program. [GPTs_10_percent_random_sample.xlsx](./GPTs_10_percent_random_sample.xlsx)
-- **Step 2:** To work with the full dataset, please download the larger files from [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the Excel sample.
+- **Step 1:** Begin by examining the 10% random data sample provided in this [Excel](./GPTs_10_percent_random_sample.xlsx) or [Google Sheets](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing) file, which includes 3 sheets. Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
+- **Step 2:** To work with the full dataset, please download the larger files from [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the 10% random sample file.
 - **Step 3:** You can dive even deeper in the data by analyzing the historical and raw data available in the folders ETL Stage 1 and 2 in [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link).
 
 
