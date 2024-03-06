@@ -1,4 +1,4 @@
-## BeeTrove - OpenAI GPTs Data
+## BeeTrove - OpenAI GPTs Dataset
 
 This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insights for research, development, business, and pure curiosity. It contains detailed historical data about around 349K Custom GPTs. This dataset is completely free, it is Apache 2.0.
 
@@ -45,7 +45,7 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
 
 **Apache License 2.0:** This permissive open-source license allows for free use, modification, distribution, and commercial exploitation of the software, provided that proper attribution and the license text are included in redistributed works.
 
-### About the creator
+### About the author
 
 [André Mafei](https://www.linkedin.com/in/andremafei/) is an independent analytics consultant. You can hire his services to help with:
 - Finding insights in this data for your company or research
