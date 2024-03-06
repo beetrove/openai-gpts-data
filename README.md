@@ -8,6 +8,7 @@ Here is a [public dashboard](https://beetrove.github.io/openai-gpts-data/) with 
 
 [![Local Image](tableau-public-dashboard-example.png)](https://beetrove.github.io/openai-gpts-data/)
 
+[![Local Image](google-sheets-screenshot.png)](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing)
 
 ### 1) Downloading the data
 
