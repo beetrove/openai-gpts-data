@@ -4,6 +4,11 @@ This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insight
 
 This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your findings and let people know where you found the data.
 
+Here is a [public dashboard](https://public.tableau.com/views/BeeTrove-OpenAIGPTsOpen-SourceDataset/BeeTrove-OpenAIGPTsOpen-SourceDataset?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) with just a few examples of visualizations possible with this data:
+
+
+![Local Image](tableau-public-dashboard-example.png)
+
 ### 1) Downloading the data
 
 - **Step 1:** Begin by examining the 10% random data sample provided in this [Excel](./GPTs_10_percent_random_sample.xlsx) or [Google Sheets](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing) file, which includes 3 sheets. Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
