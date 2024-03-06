@@ -52,6 +52,28 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
 - Finding insights in this data for your company or research
 - Joining this data with data from your company or research
 
+#### Citation Guide
+
+If you use the BeeTrove OpenAI GPTs dataset in your work, please cite it as follows to acknowledge its source:
+
+##### APA:
+Mafei, A. (2024). BeeTrove OpenAI GPTs Dataset. Upmize Inc. Available at [https://github.com/beetrove/openai-gpts-data](https://github.com/beetrove/openai-gpts-data). Apache License 2.0.
+
+##### MLA:
+Mafei, André. "BeeTrove OpenAI GPTs Dataset." Upmize Inc, 2024, [https://github.com/beetrove/openai-gpts-data](https://github.com/beetrove/openai-gpts-data). Apache License 2.0.
+
+##### BibTeX:
+```bibtex
+@misc{beetrove2024gpts,
+  author = {Mafei, André},
+  title = {BeeTrove OpenAI GPTs Dataset},
+  year = {2024},
+  publisher = {Upmize Inc},
+  howpublished = {\url{https://github.com/beetrove/openai-gpts-data}},
+  note = {Apache License 2.0}
+}
+```
+
 ### Data source
 
 Data was crawled in compliance with OpenAI's guidelines, as specified in [OpenAI's robots.txt](https://chat.openai.com/robots.txt).
