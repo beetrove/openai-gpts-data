@@ -42,6 +42,11 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
 - **Stage 2**: Transformed nested JSON data into flat CSV files.
 - **Stage 3**: Normalized data by processing the full history to compile simpler tables that contain the latest details and a timeline of performance metrics (Conversations, Stars, Reviews). These are the "Final tables" (ETL Stage 3) and the sample data in Excel.
   
+### Newsletter
+
+[Subscribe to get updates](https://forms.gle/8jfH2dT8ReTyDCv89)
+
+
 ### License
 
 **Apache License 2.0:** This permissive open-source license allows for free use, modification, distribution, and commercial exploitation of the software, provided that proper attribution and the license text are included in redistributed works.
