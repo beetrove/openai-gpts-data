@@ -44,7 +44,7 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
   
 ### Newsletter
 
-[Subscribe to get updates](https://forms.gle/8jfH2dT8ReTyDCv89)
+[Subscribe to receive updates and interesting analysis](https://forms.gle/8jfH2dT8ReTyDCv89)
 
 
 ### License
