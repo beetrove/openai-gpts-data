@@ -4,9 +4,9 @@ This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insight
 
 This project aims to spark community collaboration, encouraging everyone to explore, uncover insights, and enhance our collective grasp of Custom GPTs. Feel free to share your findings and let people know where you found the data.
 
-Here is an [example dashboard](https://beetrove.github.io/openai-gpts-data/) with just a few ideas of what is possible with this data:
+Here is an [example dashboard](https://beetrove.com/) with just a few ideas of what is possible with this data:
 
-[![Local Image](tableau-public-dashboard-example.png)](https://beetrove.github.io/openai-gpts-data/)
+[![Local Image](tableau-public-dashboard-example.png)](https://beetrove.com/)
 
 [![Local Image](google-sheets-screenshot.png)](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing)
 
