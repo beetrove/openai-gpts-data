@@ -1,4 +1,4 @@
-## BeeTrove - OpenAI GPTs Dataset
+## BeeTrove - OpenAI GPTs Statistics Dataset
 
 This OpenAI Custom GPTs dataset is meant to be a treasure trove offering insights for research, development, business, and pure curiosity. It contains detailed historical data about around 349K Custom GPTs. This dataset is completely free, it is Apache 2.0.
 
