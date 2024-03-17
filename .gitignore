@@ -2,6 +2,10 @@ OpenAI Custom GPTs Dataset/ETL Stage 1*/*.csv
 OpenAI Custom GPTs Dataset/ETL Stage 2*/*.csv
 OpenAI Custom GPTs Dataset/ETL Stage 3*/*.csv
 
+OpenAI Custom GPTs Dataset/ETL Stage 1*/*.zip
+OpenAI Custom GPTs Dataset/ETL Stage 2*/*.zip
+OpenAI Custom GPTs Dataset/ETL Stage 3*/*.zip
+
 # ------------------------------------------------------------
 # Content below is from Github's template for Python projects.
 # ------------------------------------------------------------
