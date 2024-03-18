@@ -8,13 +8,13 @@ Here is an [example dashboard](https://beetrove.com/) with just a few ideas of w
 
 [![Local Image](tableau-public-dashboard-example.png)](https://beetrove.com/)
 
-[![Local Image](google-sheets-screenshot.png)](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing)
+[![Local Image](google-sheets-screenshot.png)](https://bit.ly/beetrove-google-sheets)
 
 ### 1) Downloading the data
 
-- **Step 1:** Begin by examining the 5% random data sample provided in this [Excel](./GPTs_5_percent_random_sample.xlsx) or [Google Sheets](https://docs.google.com/spreadsheets/d/1woeD_wHiTvjK9hT7yMzF4QmURPRGH4XN81PvMhr8IoM/edit?usp=sharing) file, which includes 3 sheets. Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
-- **Step 2:** To work with the full dataset, please download the larger files from [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the 5% random sample file.
-- **Step 3:** You can dive even deeper in the data by analyzing the historical and raw data available in the folders ETL Stage 1 and 2 in [Google Drive](https://drive.google.com/drive/folders/1hUGnQ_AWeL2wi5UhUTt05dMHYb_FIvz4?usp=drive_link).
+- **Step 1:** Begin by examining the 5% random data sample provided in this [Excel](./GPTs_5_percent_random_sample.xlsx) or [Google Sheets](https://bit.ly/beetrove-google-sheets) file, which includes 3 sheets. Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
+- **Step 2:** To work with the full dataset, download the larger files from [Google Drive](https://bit.ly/beetrove-google-drive). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the 5% random sample file.
+- **Step 3:** You can dive even deeper in the data by analyzing the historical and raw data available in the folders ETL Stage 1 and 2 in [Google Drive](https://bit.ly/beetrove-google-drive).
 
 
 ### 2) Important Observations for Analysis
@@ -44,7 +44,7 @@ ETL (Extract, Transform, and Load) is a process used to gather and prepare data 
   
 ### Newsletter
 
-[Subscribe to receive updates and interesting analysis](https://forms.gle/8jfH2dT8ReTyDCv89)
+[Subscribe to receive updates and interesting analysis](https://bit.ly/beetrove-news)
 
 
 ### License
