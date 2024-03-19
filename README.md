@@ -6,7 +6,7 @@ This project aims to spark community collaboration, encouraging everyone to expl
 
 Here is an [example dashboard](https://beetrove.com/) with just a few ideas of what is possible with this data:
 
-[![Local Image](tableau-public-dashboard-example.png)](https://beetrove.com/)
+[![Local Image](dashboard-gif.gif)](https://beetrove.com/)
 
 [![Local Image](google-sheets-screenshot.png)](https://bit.ly/beetrove-google-sheets)
 
