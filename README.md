@@ -12,7 +12,10 @@ Here is an [example dashboard](https://beetrove.com/) with just a few ideas of w
 
 ### 1) Downloading the data
 
-- **Step 1:** Begin by examining the 5% random data sample provided in this [Excel](./GPTs_5_percent_random_sample.xlsx) or [Google Sheets](https://bit.ly/beetrove-google-sheets) file, which includes 3 sheets. Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
+- **Step 1:** Begin by examining the the small sample files:
+  - 5% random data sample provided in this [Excel](./GPTs_5_percent_random_sample.xlsx) or [Google Sheets](https://bit.ly/beetrove-google-sheets) file, which includes 3 sheets.
+  - Top filtered, GPTs with 100 or more conversations in this [Excel](./GPTs_top_filter_100_plus_conversations.xlsx)
+  - Please note that due to the inherent limitations on data capacity of both Excel and Google Sheets, it's not feasible to analyze the full dataset directly within these platforms.
 - **Step 2:** To work with the full dataset, download the larger files from [Google Drive](https://bit.ly/beetrove-google-drive). In the "Final tables" folder (ETL Stage 3), you will find CSV files in a format similar to the 5% random sample file.
 - **Step 3:** You can dive even deeper in the data by analyzing the historical and raw data available in the folders ETL Stage 1 and 2 in [Google Drive](https://bit.ly/beetrove-google-drive).
 
